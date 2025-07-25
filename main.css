@@ -1,16 +1,24 @@
+body {
+    background-color: #FFCDB2;
+    font-family: Courier New;
+    font-weight: bold;
+}
 .header {
-    width: 700px;
-    height: 128px;
-    background-image: url(media/header.png);
-    background-size: contain;
-    background-position: center;
-    margin:auto;
-    border: 3px solid black;
+    width: 690px;
+    height: 64px;
+    background-color: #FFCDB2;
+    background-image: url(/media/header3.png);
+    font-size: 20px;
+    margin: auto;
+    padding-left: 10px;
+    color: #3B3030;
+    border: 3px solid #B5828C;
 }
 .links {
     width: 700px;
     height: 50px;
-    border: 3px solid black;
+    border: 3px solid #B5828C;
+    background-color: #FFCDB2;
     margin:auto;
     margin-top: 3px;
     text-align: center;
@@ -22,4 +30,15 @@
 }
 .workinprogress{
     text-align: center;
+}
+.maindiv{
+    margin:auto;
+    margin-top: 3px;
+    padding-left: 10px;
+    width: 690px;
+    height: 200px;
+    border: 3px solid #B5828C;
+}
+footer {
+    text-align: center
 }
