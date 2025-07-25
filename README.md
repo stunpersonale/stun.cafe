@@ -1,2 +1,3 @@
 # stun.cafe
 My personal website
+# IF YOU ARE GONNA USE ANY CODE PRESENT IN THIS REPO FOR YOUR OWN WEBSITE, PLEASE ADD CREDITS TO https://stun.cafe/ SOMEWHERE!
