@@ -5,14 +5,19 @@ body {
 }
 .header {
     width: 690px;
-    height: 64px;
+    height: 46px;
     background-color: #FFCDB2;
     background-image: url(/media/header3.png);
     font-size: 20px;
     margin: auto;
+    padding-top:18px;
     padding-left: 10px;
     color: #3B3030;
     border: 3px solid #B5828C;
+}
+a.headertext{
+    color: #3B3030;
+    text-decoration: none;
 }
 .links {
     width: 700px;
